@@ -3,7 +3,7 @@
 A DevOps Engineer passionate about automation, cloud technologies, and building reliable systems. I love working with CI/CD, Docker, Kubernetes, and AWS — and I’m always exploring new tools to make infrastructure smarter and deployment smoother.
 
 ## 🚀 My Projects
-Check out what I’m working on: [GitHub Profile](https://github.com/YOUR_USERNAME)
+Check out what I’m working on: [GitHub Profile](https://github.com/sandeepkumaruttera)
 
 
 ## 📫 How to Reach Me
