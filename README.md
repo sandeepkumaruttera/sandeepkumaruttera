@@ -10,27 +10,28 @@ Check out what I’m working on: [GitHub Profile](https://github.com/sandeepkuma
 - Email: [sandeepkumaruttera@gmail.com](mailto:sandeepkumaruttera@gmail.com)  
 - LinkedIn: [https://www.linkedin.com/in/sandeep-kumar-uttera-327431190/](#) *(Replace with your actual LinkedIn URL)*
 
-##⚡ Technologies & Tools
-☁️ Cloud & Infrastructure
-AWS (IAM, EC2, S3, RDS, EKS, Route 53, Auto Scaling) – Built scalable, highly available cloud architectures for banking applications.
+## 🛠️ Technologies & Tools
 
-🐧 OS & Scripting
-Linux (RHEL, CentOS), Shell Scripting – Automated routine tasks and system operations to reduce manual efforts and errors.
+### ☁️ Cloud & Infrastructure  
+**AWS (IAM, EC2, S3, RDS, EKS, Route 53, Auto Scaling)** – Designed and managed scalable, highly available cloud architectures.
 
-⚙️ DevOps & Automation
-Docker, Kubernetes (EKS), Helm, Terraform, Ansible – Containerized and orchestrated microservices, automated infrastructure provisioning and deployment pipelines.
+### 🐧 OS & Scripting  
+**Linux (RHEL, CentOS), Shell Scripting** – Automated routine tasks and server operations, saving hours of manual work.
 
-🚀 CI/CD Tools
-Jenkins, Git, SonarQube, Nexus – Designed efficient pipelines that sped up deployments and improved code quality in high-pressure environments.
+### ⚙️ DevOps & Automation  
+**Docker, Kubernetes (EKS), Helm, Terraform, Ansible** – Containerized apps, orchestrated deployments, and provisioned cloud infrastructure with repeatable IaC.
 
-📈 Monitoring & Logging
-Prometheus, Grafana – Ensured system reliability and 99.9% uptime through proactive monitoring and alerting.
+### 🚀 CI/CD Tools  
+**Jenkins, Git, SonarQube, Nexus** – Built reliable and efficient CI/CD pipelines to speed up delivery and reduce release issues.
 
-🔐 Security
-DevSecOps (SAST, DAST, Image Scanning), IAM, SSH – Integrated security checks into CI/CD pipelines and enforced best practices across infrastructure.
+### 📈 Monitoring & Logging  
+**Prometheus, Grafana** – Monitored system performance and ensured 99.9% uptime through effective dashboards and alerts.
 
-🧩 Methodologies
-Agile, GitFlow, Feature Branching – Worked with cross-functional teams to deliver high-quality software in iterative development cycles.
+### 🔐 Security  
+**DevSecOps (SAST, DAST, Image Scanning), IAM, SSH** – Embedded security into the pipeline and followed best practices for access and infrastructure control.
+
+### 🧩 Methodologies  
+**Agile, GitFlow, Feature Branching** – Collaborated in cross-functional teams to deliver features in fast-paced, high-demand environments.
 
 
 
