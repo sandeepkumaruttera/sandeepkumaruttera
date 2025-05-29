@@ -25,7 +25,7 @@ https://github.com/sandeepkumaruttera/expense-infra-dev-module-user
 
 ## 📫 How to Reach Me
 - Email: [sandeepkumaruttera@gmail.com](mailto:sandeepkumaruttera@gmail.com)  
-- LinkedIn: [https://www.linkedin.com/in/sandeep-kumar-uttera-327431190/](#) *(Replace with your actual LinkedIn URL)*
+- LinkedIn: [https://www.linkedin.com/in/sandeep-kumar-uttera-327431190/](#) 
 
 ## 🛠️ Technologies & Tools
 
