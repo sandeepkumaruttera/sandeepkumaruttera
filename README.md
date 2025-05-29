@@ -4,6 +4,15 @@ A DevOps Engineer passionate about automation, cloud technologies, and building 
 
 ## 🚀 My Projects
 Check out what I’m working on: [GitHub Profile](https://github.com/sandeepkumaruttera)
+🔧 chatgpt-k8-expense-volumes – ChatGPT-powered expense tracker running on Kubernetes with persistent storage.
+
+🔐 DevSecOps-Project-Netflix – Netflix clone with integrated DevSecOps pipeline and security scanning.
+
+🌐 terraform-aws-eks-cluster – Provisioned a full EKS cluster using Terraform and AWS best practices.
+
+🧾 streamline – Automated CI/CD pipelines and microservices infrastructure using modern DevOps tooling.
+
+💰 expense-k8 – Kubernetes deployment of a full-stack expense manager application.
 
 
 ## 📫 How to Reach Me
